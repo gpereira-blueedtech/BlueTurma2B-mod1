@@ -38,3 +38,5 @@ print(f'Fazendo: {dicionario["Gols_partida"]}, com um total de: {dicionario["Tot
 
 for i,v in enumerate (dicionario["Gols_partida"]):
     print("No jogo",i+1,"ele fez",v,"gols")
+
+#Fim do programa
